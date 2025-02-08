@@ -1,0 +1,15 @@
+# Node.js
+node_modules
+dist
+.env
+.npm
+npm-debug.log*
+
+# Logs
+logs
+*.log
+*.gz
+
+# Editor folders
+.vscode
+.idea
